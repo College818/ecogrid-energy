@@ -1,0 +1,2 @@
+Seller: House A, Buyer: House B, Energy: 4 kWh, Price: Rs. 8 per kWh, Payment: Rs. 32
+Seller: House A, Buyer: House B, Energy: 4 kWh, Price: Rs. 8 per kWh, Payment: Rs. 32
